@@ -14,8 +14,8 @@
 ## ⚡ Who I Am
 
 - 🔭 **Currently working on:**  
-  - Daily LeetCode grind 🧩  
-  - Full-stack projects using MERN / Next.js / GraphQL / Firebase / AWS  
+
+  - Full-stack projects using MERN / Next.js / Firebase 
   - ML & AI Automation projects  
   - Mobile Application Development  
   - Data Analytics using PowerBi, Tableau  
@@ -60,7 +60,6 @@
 | **Sports Complex Management System** | A full-stack MERN / Next.js system with authentication, role-based access, bookings, payment flow, analytics dashboards, and real-time updates — showcases strong backend + frontend integration. |
 | **Automated Question Paper Generator** | A smart Python-based generator that creates structured exam papers using blueprint rules, difficulty levels, tag-based question selection, and randomized sets — helps automate academic workflows. |
 | **Auto-Grading & Evaluation System** | A rule-based + ML-assisted grading automation tool that evaluates answers, assigns marks, and generates performance reports — demonstrates your ML + automation capabilities. |
-| **LeetCode / DSA Solutions Repository** | 400+ optimized solutions in C++, Python, and JavaScript — displays your consistency, logic-building skills, and strong command of data structures & algorithms. |
 | **Real-Time Full-Stack Applications** | Modern apps built using Next.js, GraphQL, WebSockets, and Firebase — showcasing your command of scalable, responsive, and real-time architectures. |
 | **ML / AI Experiments & Automation** | A collection of ML models, notebooks, data-processing pipelines, and automation scripts — demonstrating your hands-on experience with machine learning workflows. |
 | **Mobile & Cross-Platform App Projects** | Mobile apps integrating backend APIs, cloud services, and analytics dashboards — representing your versatility across web + mobile ecosystems. |
