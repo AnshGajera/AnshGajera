@@ -1,74 +1,93 @@
-# 🔥 Hi, I’m Ansh
+# 🔥 Hi, I'm Ansh
 
-### 💻 AI/ML Enthusiast | 🧠 DSA Lover | 🚀 Full-Stack & Robotics Builder
+<h3 align="center">💻 AI/ML Enthusiast | 🧠 DSA Lover | 🚀 Full-Stack & Robotics Builder</h3>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-gajera/)  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:401anshgajera@gmail.com)  
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/23AIML019_AnshGajera/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansh-gajera/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:401anshgajera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/23AIML019_AnshGajera/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+</p>
 
 ---
 
 ## ⚡ Who I Am
 
 - 🔭 **Currently working on:**  
-  - sharpening data structure & algorithm skills  
-  - Full-stack projects using MERN / Next.js / GraphQL / Firebase / AWS 🔧  
-  - ML & AI Automation projects
-  - Mobile Application Development
-  - Data Analytics using PowerBi , Tableau
-  
+  - Daily LeetCode grind 🧩  
+  - Full-stack projects using MERN / Next.js / GraphQL / Firebase / AWS  
+  - ML & AI Automation projects  
+  - Mobile Application Development  
+  - Data Analytics using PowerBi, Tableau  
+
 - 🧠 **Learning now:**  
-  - Advanced ML/AI algorithms, system design, real-time systems & WebSockets  
-  - Infrastructure, backend scalability, and DevOps basics  
-- 🎯 **My goal:** Build a strong, versatile foundation to become a **Tech Generalist** — comfortable across AI, Web, Embedded & Infra stacks
+  - Advanced ML/AI algorithms  
+  - System design, DevOps, WebSockets  
+  - Infrastructure, backend scalability  
+
+- 🎯 **Goal:** Become a **Tech Generalist** — mastering AI, Web, Embedded & Infra
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js)  
-![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase)  
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux)  
-![TypeScript](https://skillicons.dev/icons?i=ts) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Storybook](https://skillicons.dev/icons?i=storybook) ![GraphQL](https://skillicons.dev/icons?i=graphql)  
-![Go](https://skillicons.dev/icons?i=go) ![Rust](https://skillicons.dev/icons?i=rust) ![NestJS](https://skillicons.dev/icons?i=nestjs) ![AWS](https://skillicons.dev/icons?i=aws)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,mongodb,express,firebase" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode,linux,arduino" />
+</p>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts" height="60" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+<img src="https://skillicons.dev/icons?i=graphql" height="60" />
+<img src="https://skillicons.dev/icons?i=go" height="60" />
+<img src="https://skillicons.dev/icons?i=rust" height="60" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="60" />
+<img src="https://skillicons.dev/icons?i=aws" height="60" />
+</div>
 
 ---
 
 ## 📂 Featured & Highlight Projects
 
-| Project / Repo | What It Does / Why It Matters |
-|----------------|-------------------------------|
-| **Sports Complex Management System** | Full-stack web app — handles authentication, user profiles, project/workflow management. Great showcase of your MERN/Firebase + backend skills. |
-| **LeetCode / DSA Solutions Repo** | A growing collection of algorithm & data-structure solutions in C++ / JS / Python — shows your problem-solving chops and consistency. |
-| **Full-Stack + Real-Time Apps** | Projects built with Next.js / GraphQL / WebSockets — aligns with your interest in real-time communication + modern web stacks. |
-| **ML / AI Experimentation Projects** | Any small-scale or experimental ML/AI projects — shows that you actively apply what you learn in a hands-on way. |
-
-
----
-
-## 💼 Education & Experience
-
-- 🎓 Pursuing B.Tech in AI & ML at CHARUSAT  
-- 📚 Deep interest in data science, AI/ML, full-stack development. :contentReference[oaicite:2]{index=2}  
-- ✅ Strong foundation in DSA, system-level thinking, full-stack and real-time systems.  
+| Project | What It Does |
+|--------|---------------|
+| **Sports Complex Management System** | A full-stack MERN system — auth, bookings, dashboards, admin panel. |
+| **LeetCode / DSA Repo** | Hundreds of solutions in C++/Python/JS — showing consistency & problem-solving. |
+| **Full-Stack + Real-Time Apps** | Next.js + GraphQL + WebSocket apps — strong modern web experience. |
+| **ML / AI Experiments** | ML notebooks, automation scripts & modeling experiments. |
 
 ---
 
-## 🌱 What I’m Exploring Next
+## 📊 GitHub Insights
 
-- Advanced ML/AI — deep learning, CV, robotics, RL  
-- Production-ready full-stack & scalable backend systems (GraphQL, microservices, DevOps, infra)  
-- Real-world systems bridging embedded, ML and web (e.g. IoT + cloud + analytics)  
-- Open-source contributions, hackathons & collaborative projects  
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=AnshGajera&theme=dracula" height="150" />
+<img src="https://github-profile-trophy.vercel.app?username=AnshGajera&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
+</div>
 
----
-
-## 📫 How to Reach Me
-
-- ✉️ Email: 401anshgajera@gmail.com  
-- 🔗 LinkedIn: [in/ansh-gajera](https://www.linkedin.com/in/ansh-gajera/)  
-- 💬 Open to collaboration, guidance or new project ideas anytime!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph.svg" />
+</picture>
 
 ---
 
-> “Always be learning, always be building.”  
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansh-gajera/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/></a>
+  <a href="mailto:401anshgajera@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25"/></a>
+</p>
+
+---
+
+<div align="center">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in" />
+</div>
