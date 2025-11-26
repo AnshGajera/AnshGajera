@@ -1,6 +1,6 @@
 # 🔥 Hi, I'm Ansh
 
-<h3 align="center">💻 AI/ML Enthusiast | 🧠 DSA Lover | 🚀 Full-Stack & Robotics Builder</h3>
+<h3 align="center">💻 AI/ML Enthusiast | 🧠 Data Analytics | 🚀 Full-Stack & Mobile App Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-gajera/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
