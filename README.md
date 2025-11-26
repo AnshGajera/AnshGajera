@@ -1,95 +1,74 @@
-<h1 align="center">🔥 Hi, I'm Ansh</h1>
-<h3 align="center">💻 AI/ML Enthusiast | 🧠 DSA Lover | 🚀 Always Building</h3>
+# 🔥 Hi, I’m Ansh
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansh-gajera/?originalSubdomain=in">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:401anshgajera@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/23AIML019_AnshGajera/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="">
-  <img src="https://camo.githubusercontent.com/4590c082736a7a39f92d474350a710fb1775e7009d12642396a97160e5907533/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576562736974652d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7465726e65742d6578706c6f726572266c6f676f436f6c6f723d7768697465" alt="Website" data-canonical-src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&amp;logo=internet-explorer&amp;logoColor=white" style="max-width: 100%;">
-</a>
-    
-</p>
+### 💻 AI/ML Enthusiast | 🧠 DSA Lover | 🚀 Full-Stack & Robotics Builder
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-gajera/)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:401anshgajera@gmail.com)  
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/23AIML019_AnshGajera/)  
 
 ---
 
-### ⚡ Who Am I?
+## ⚡ Who I Am
 
-text
-🔭 Currently working on:
-     - Daily LeetCode grind 🧩
-     - Full-stack projects using MERN & Firebase 🔧
-     - Computer Vision + ROS-based drone navigation 📸🚁
-
-🧠 Learning:
-     - Advanced AI/ML algorithms
-     - System Design + DevOps basics
-     - Real-time communication using WebSockets
-
-🎯 Goal:
-     Become a Tech Generalist: AI, Web, Embedded & Infra.
-
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,mongodb,express,firebase" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode,linux,arduino" /> </p>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnshGajera&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AnshGajera&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
+- 🔭 **Currently working on:**  
+  - sharpening data structure & algorithm skills  
+  - Full-stack projects using MERN / Next.js / GraphQL / Firebase / AWS 🔧  
+  - ML & AI Automation projects
+  - Mobile Application Development
+  - Data Analytics using PowerBi , Tableau
   
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
-</div>
+- 🧠 **Learning now:**  
+  - Advanced ML/AI algorithms, system design, real-time systems & WebSockets  
+  - Infrastructure, backend scalability, and DevOps basics  
+- 🎯 **My goal:** Build a strong, versatile foundation to become a **Tech Generalist** — comfortable across AI, Web, Embedded & Infra stacks
+
+---
+
+## 🛠️ Tech Stack  
+
+![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js)  
+![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase)  
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux)  
+![TypeScript](https://skillicons.dev/icons?i=ts) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Storybook](https://skillicons.dev/icons?i=storybook) ![GraphQL](https://skillicons.dev/icons?i=graphql)  
+![Go](https://skillicons.dev/icons?i=go) ![Rust](https://skillicons.dev/icons?i=rust) ![NestJS](https://skillicons.dev/icons?i=nestjs) ![AWS](https://skillicons.dev/icons?i=aws)
+
+---
+
+## 📂 Featured & Highlight Projects
+
+| Project / Repo | What It Does / Why It Matters |
+|----------------|-------------------------------|
+| **Sports Complex Management System** | Full-stack web app — handles authentication, user profiles, project/workflow management. Great showcase of your MERN/Firebase + backend skills. |
+| **LeetCode / DSA Solutions Repo** | A growing collection of algorithm & data-structure solutions in C++ / JS / Python — shows your problem-solving chops and consistency. |
+| **Full-Stack + Real-Time Apps** | Projects built with Next.js / GraphQL / WebSockets — aligns with your interest in real-time communication + modern web stacks. |
+| **ML / AI Experimentation Projects** | Any small-scale or experimental ML/AI projects — shows that you actively apply what you learn in a hands-on way. |
+
+
+---
+
+## 💼 Education & Experience
+
+- 🎓 Pursuing B.Tech in AI & ML at CHARUSAT  
+- 📚 Deep interest in data science, AI/ML, full-stack development. :contentReference[oaicite:2]{index=2}  
+- ✅ Strong foundation in DSA, system-level thinking, full-stack and real-time systems.  
+
+---
+
+## 🌱 What I’m Exploring Next
+
+- Advanced ML/AI — deep learning, CV, robotics, RL  
+- Production-ready full-stack & scalable backend systems (GraphQL, microservices, DevOps, infra)  
+- Real-world systems bridging embedded, ML and web (e.g. IoT + cloud + analytics)  
+- Open-source contributions, hackathons & collaborative projects  
+
+---
+
+## 📫 How to Reach Me
+
+- ✉️ Email: 401anshgajera@gmail.com  
+- 🔗 LinkedIn: [in/ansh-gajera](https://www.linkedin.com/in/ansh-gajera/)  
+- 💬 Open to collaboration, guidance or new project ideas anytime!
+
+---
+
+> “Always be learning, always be building.”  
