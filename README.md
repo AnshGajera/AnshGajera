@@ -1,83 +1,109 @@
-# 🔥 Hi, I'm Ansh
+# 🔥 Hi, I'm Ansh Gajera
 
-<h3 align="center">💻 AI/ML Enthusiast | 🧠 Data Analytics | 🚀 Full-Stack & Mobile App Builder</h3>
+<h3 align="center">🧠 AI / ML Engineer | ⚙️ RAG Systems | 🤖 Agentic AI | 🚀 Backend-Focused Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-gajera/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:401anshgajera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/23AIML019_AnshGajera/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+  <a href="https://anshgajera.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## ⚡ Who I Am
+## 🚀 About Me
 
-- 🔭 **Currently working on:**  
+I design and build **AI-powered systems with production-style backend architectures**.
 
-  - Full-stack projects using MERN / Next.js / Firebase 
-  - ML & AI Automation projects  
-  - Mobile Application Development  
-  - Data Analytics using PowerBi, Tableau  
+My focus areas:
 
-- 🧠 **Learning now:**  
-  - Advanced ML/AI algorithms  
-  - System design, DevOps, WebSockets  
-  - Infrastructure, backend scalability  
+- 🔹 Retrieval-Augmented Generation (RAG)
+- 🔹 Agentic AI Workflows
+- 🔹 Neural Networks & Deep Learning
+- 🔹 Backend APIs for AI Applications
+- 🔹 Scalable ML & Automation Systems
 
-- 🎯 **Goal:** Become a **Tech Generalist** — mastering AI, Web, Embedded & Infra
+Currently pursuing **B.Tech in AI & Machine Learning** and building real-world AI systems beyond academic projects.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Featured AI Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,mongodb,express,firebase" />
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode,linux,arduino" />
-</p>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts" height="60" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-<img src="https://skillicons.dev/icons?i=graphql" height="60" />
-<img src="https://skillicons.dev/icons?i=go" height="60" />
-<img src="https://skillicons.dev/icons?i=rust" height="60" />
-<img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-<img src="https://skillicons.dev/icons?i=aws" height="60" />
-</div>
+### 🔹 ChatPDF — RAG-Based Document Intelligence System
+- Full-stack AI platform for PDF upload + semantic retrieval + contextual chat
+- Sentence-Transformers embeddings + Qdrant vector DB
+- FastAPI backend with JWT auth & streaming responses
+- Multilingual voice integration (ASR + TTS)
 
 ---
 
-## 📂 Featured & Highlight Projects
-
-| Project / Repo | Description |
-|----------------|-------------|
-| **Sports Complex Management System** | A full-stack MERN / Next.js system with authentication, role-based access, bookings, payment flow, analytics dashboards, and real-time updates — showcases strong backend + frontend integration. |
-| **Automated Question Paper Generator** | A smart Python-based generator that creates structured exam papers using blueprint rules, difficulty levels, tag-based question selection, and randomized sets — helps automate academic workflows. |
-| **Auto-Grading & Evaluation System** | A rule-based + ML-assisted grading automation tool that evaluates answers, assigns marks, and generates performance reports — demonstrates your ML + automation capabilities. |
-| **Real-Time Full-Stack Applications** | Modern apps built using Next.js, GraphQL, WebSockets, and Firebase — showcasing your command of scalable, responsive, and real-time architectures. |
-| **ML / AI Experiments & Automation** | A collection of ML models, notebooks, data-processing pipelines, and automation scripts — demonstrating your hands-on experience with machine learning workflows. |
-| **Mobile & Cross-Platform App Projects** | Mobile apps integrating backend APIs, cloud services, and analytics dashboards — representing your versatility across web + mobile ecosystems. |
+### 🔹 AI Grading Assistant (Internship Project)
+- Agentic AI-based grading workflow
+- Automated descriptive answer evaluation & structured feedback
+- Built using Agno AGI framework + Streamlit deployment
 
 ---
 
-## 📊 GitHub Insights
+### 🔹 Automated Question Paper Generator
+- Rule-based + intelligent paper blueprint generation
+- Topic-based selection, difficulty balancing, and randomization logic
+- Designed to automate academic exam workflows
+
+---
+
+### 🔹 Malware Detection in Android Applications
+- Static APK feature extraction (permissions, API calls)
+- Logistic Regression & Random Forest classifiers
+- Evaluated using confusion matrix and model performance metrics
+
+---
+
+# 🏗️ Full-Stack & System Projects
+
+### 🔹 Sports Complex Management System
+- Role-based authentication system
+- Booking workflows + analytics dashboards
+- Full backend + frontend integration (Next.js / APIs)
+- Designed for scalable system behavior
+
+---
+
+### 🔹 Real-Time Applications
+- Built modern apps using Next.js, GraphQL & WebSockets
+- Real-time updates & responsive UI architectures
+- Backend-focused implementation
+
+---
+
+# 🛠️ Core Tech Stack
+
+### AI / ML
+Supervised Learning • Neural Networks • Deep Learning  
+RAG Architectures • Agentic AI • Prompt Engineering  
+
+### Backend & Systems
+FastAPI • REST APIs • JWT • PostgreSQL • Docker  
+
+### Supporting Stack
+Python • C++ • JavaScript • Next.js • React • Git • Linux  
+
+---
+
+# 📊 GitHub Insights
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=AnshGajera&theme=dracula" height="150" />
 <img src="https://github-profile-trophy.vercel.app?username=AnshGajera&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph.svg" />
-</picture>
+---
+
+# 🎯 Current Focus
+
+- Scaling RAG architectures  
+- Advanced Deep Learning concepts  
+- AI system design patterns  
+- Backend scalability & performance  
 
 ---
 
@@ -87,9 +113,3 @@
   <a href="https://www.linkedin.com/in/ansh-gajera/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/></a>
   <a href="mailto:401anshgajera@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25"/></a>
 </p>
-
----
-
-<div align="center">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in" />
-</div>
