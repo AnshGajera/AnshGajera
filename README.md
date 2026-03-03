@@ -50,35 +50,46 @@ I design AI systems with structured backend architecture, authentication, vector
 
 ---
 
-# 🚀 Featured AI Systems
+## 🚀 Featured AI Systems
 
-#🔹 ChatPDF — Production-Grade RAG Platform
-#🔹 AI Grading Agent
-#🔹 Intelligent Question Paper Generator
-#🔹 Android Malware Detection
+🔹 ChatPDF — Production-Grade RAG Platform
 
----
+🔹 AI Grading Agent
+
+🔹 Intelligent Question Paper Generator
+
+🔹 Android Malware Detection
 
 # 🏗 System Engineering Projects
 
-#🔹 Sports Complex Management System
+🔹 Sports Complex Management System
+
+🔹 Rail Wagon Detection System
 
 ---
-
 # 🛠 Tech Stack
 
+<div align="left">
+
 ### 🧠 AI / ML
-RAG Architectures • Deep Learning • Neural Networks  
-Agentic AI • Prompt Engineering • Supervised Learning  
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+
+<br/>
 
 ### ⚙ Backend
-FastAPI • REST APIs • JWT • PostgreSQL • Docker  
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,docker&theme=dark" />
+
+<br/>
 
 ### 🌐 Frontend
-Next.js • React • Modern UI Systems  
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
 
-### 🧩 Foundations
-Python • C++ • JavaScript • Git • Linux  
+<br/>
+
+### 🧩 Tools & Systems
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash&theme=dark" />
+
+</div>
 
 ---
 
