@@ -53,46 +53,18 @@ I design AI systems with structured backend architecture, authentication, vector
 # 🚀 Featured AI Systems
 
 ## 🔹 ChatPDF — Production-Grade RAG Platform
-- PDF upload + semantic chunking  
-- Sentence-Transformers embeddings  
-- Qdrant vector database  
-- FastAPI backend with JWT authentication  
-- Streaming responses  
-- Multilingual ASR + TTS integration  
-
----
 
 ## 🔹 AI Grading Agent
-- Agentic AI workflow for automated evaluation  
-- Structured descriptive answer grading  
-- Built with Agno AGI framework  
-- Streamlit-based deployment  
-
----
 
 ## 🔹 Intelligent Question Paper Generator
-- Blueprint-driven exam generation  
-- Topic-based filtering  
-- Difficulty balancing  
-- Randomization logic  
-
----
 
 ## 🔹 Android Malware Detection
-- Static APK feature extraction  
-- Logistic Regression & Random Forest  
-- Confusion matrix evaluation  
-- Security-focused ML pipeline  
 
 ---
 
 # 🏗 System Engineering Projects
 
 ## 🔹 Sports Complex Management System
-- Role-based authentication  
-- Booking workflows  
-- Backend APIs + frontend integration  
-- Designed for scalable behavior  
 
 ---
 
