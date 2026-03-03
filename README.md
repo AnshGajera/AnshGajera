@@ -7,6 +7,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Designing+Production-Grade+AI+Systems;Building+Scalable+Agentic+Workflows;Engineering+Intelligent+Automation" />
 
 <br/><br/>
+
+<p align="center">
+
+  <!-- GitHub Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=AnshGajera&label=Profile%20Views&style=for-the-badge&color=243B55" />
+
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/AnshGajera?label=GitHub%20Followers&style=for-the-badge&logo=github&color=0F2027" />
+
+  <!-- LinkedIn Followers -->
+  <img src="https://img.shields.io/badge/LinkedIn%20Followers-500%2B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</p>
+
 <div align="center" style="margin-top: 10px;">
 
 <a href="https://www.linkedin.com/in/ansh-gajera/">
