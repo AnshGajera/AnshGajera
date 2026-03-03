@@ -25,8 +25,9 @@
 </div>
 </div>
 
----
-## 🧠 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> About Me
 
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
 
@@ -43,9 +44,9 @@ ansh = {
     "mission": "Build AI systems that scale to production"
 }
 ```
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-# 🛠 Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Tech Stack
 
 <div align="center">
 
@@ -69,9 +70,9 @@ ansh = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-# 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"/> GitHub Analytics
 
 <div align="center">
 
@@ -87,13 +88,13 @@ ansh = {
   <img width="45%" src="https://streak-stats.demolab.com?user=AnshGajera&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshGajera&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 
 # 🐍 Contribution Snake
@@ -102,16 +103,16 @@ ansh = {
   <img src="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-# 🎯 Current Engineering Focus
+## <img src="https://media.giphy.com/media/KEYEpIngcmXlHetDqz/giphy.gif" width="28"/> Current Focus
 
 - Scaling multi-document RAG systems  
 - Advanced Deep Learning mastery  
 - AI system design patterns  
 - Backend scalability & performance  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
