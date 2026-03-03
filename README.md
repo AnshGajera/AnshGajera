@@ -44,6 +44,21 @@ ansh = {
     "mission": "Build AI systems that scale to production"
 }
 ```
+<br/>
+
+🧠 **AI/ML Systems Engineer** building intelligent automation & agentic AI architectures  
+⚙️ Turning ML models into scalable backend systems ready for production  
+
+### ⚡ What I'm Working On
+
+- 🤖 Designing **agent-based AI systems** and multi-step reasoning workflows  
+- 🔍 Building **RAG pipelines** with vector search and semantic retrieval  
+- 🏗 Engineering **production-ready AI APIs** with authentication & deployment  
+- 🚀 Exploring **ML automation and system orchestration patterns**  
+- 🧪 Strengthening foundations in **deep learning & model optimization**  
+- 🎯 Long-term goal: Architect AI systems that scale beyond prototypes  
+
+<br clear="both"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Tech Stack
@@ -90,20 +105,19 @@ ansh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-# 📈 Contribution Graph
+## <img src="https://media.giphy.com/media/3o7TKsQ8UQnZbG9xvO/giphy.gif" width="28"/> Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshGajera&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28"/> Contribution Pacman
 
-# 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnshGajera/AnshGajera/output/pacman-contribution-graph.svg">
+</picture>
 
 ## <img src="https://media.giphy.com/media/KEYEpIngcmXlHetDqz/giphy.gif" width="28"/> Current Focus
 
@@ -116,6 +130,12 @@ ansh = {
 
 <div align="center">
 
-### ⚡ Engineering AI Beyond Just Models
+<div align="center">
+  
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
 
 </div>
+
+### ⚡ Engineering AI Beyond Just Models
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:141E30,50:243B55,100:0F2027&animation=fadeIn"/>
