@@ -52,19 +52,16 @@ I design AI systems with structured backend architecture, authentication, vector
 
 # 🚀 Featured AI Systems
 
-## 🔹 ChatPDF — Production-Grade RAG Platform
-
-## 🔹 AI Grading Agent
-
-## 🔹 Intelligent Question Paper Generator
-
-## 🔹 Android Malware Detection
+#🔹 ChatPDF — Production-Grade RAG Platform
+#🔹 AI Grading Agent
+#🔹 Intelligent Question Paper Generator
+#🔹 Android Malware Detection
 
 ---
 
 # 🏗 System Engineering Projects
 
-## 🔹 Sports Complex Management System
+#🔹 Sports Complex Management System
 
 ---
 
