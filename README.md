@@ -43,36 +43,14 @@ ansh = {
     "mission": "Build AI systems that scale to production"
 }
 ```
-
-I build structured AI systems with backend architecture , vector databases, and intelligent automation workflows.
-
-<br clear="right"/>
-
 ---
 
-## 🚀 Featured AI Systems
-
-🔹 ChatPDF — Production-Grade RAG Platform
-
-🔹 AI Grading Agent
-
-🔹 Intelligent Question Paper Generator
-
-🔹 Android Malware Detection
-
-# 🏗 System Engineering Projects
-
-🔹 Sports Complex Management System
-
-🔹 Rail Wagon Detection System
-
----
 # 🛠 Tech Stack
 
 <div align="center">
 
 ### 🧠 AI / ML
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pytorch&theme=dark" />
 
 <br/>
 
@@ -97,16 +75,16 @@ I build structured AI systems with backend architecture , vector databases, and 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnshGajera&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="43%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnshGajera&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnshGajera&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnshGajera&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=AnshGajera&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=AnshGajera&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
